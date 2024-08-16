@@ -39,5 +39,6 @@ Top 5 Product - Based On profit
 1)Peanut Better Cube 2)99% Dark and Pure 3)Manuka Honey Choco 4)Smooth Silky Salty 5)Orange Choco
 Bottom 5 Product - Based On profit
 1)85% Dark Bites 2)Mint Chip Choco 3)Drinking Coco 4)50% Dark Bites 5)Baker's Choco Chips
+
 Project Learning: 
 Data Cleaning & Processing in Power BI,DAX in Power BI, Bookmarks,Measures and Calculations in Power BI, Create New Columns and Tables in Power BI,Filters and Slicers in Power BI, Zoom in Charts in Power BI and Dashboard Design in Power BI.
